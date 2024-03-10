@@ -6,5 +6,5 @@
 ███████  █████  ███████████  ██  ███████████  █████  ███  ███  ███████
 ██      ██████  ██████      ███  ████████        ██  ████  ██        █
 ██████████████████████████████████████████████████████████████████████
-code wrangler $ byte juggler # bit wrestler ! hex cowboy ? disk wizard
+codewranglers $ bytejugglers # bitwrestlers ! hexcowboys ? diskwizards
 ```
