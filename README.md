@@ -6,5 +6,5 @@
 ███████  █████  ██████████  ██  ███████  ██  ███  ██  ███████
 ██      ██████  █████      ███  ███████  ██  ███  ███     ███
 █████████████████████████████████████████████████████████████
-codewranglers$bytejugglers#bitwrestlers!ramjockeys?hexwizards
+c0derider $ by7esmasher # b1twrestler ! r4mraider ? h3xwizard
 ```
