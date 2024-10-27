@@ -7,4 +7,6 @@
 ██      ██████    ███      ███  ███████  ██  ███  ███     ███
 █████████████████████████████████████████████████████████████
 c0derider $ by7esmasher # b1twrestler ! r4mraider ? h3xwizard
+@ archlinux / vim / gcc / make / firefox / 6510 / 6581 / 68000
+- "an idiot admires complexity, a genius admires simplicity."
 ```
