@@ -1,5 +1,5 @@
 # Clifford Carnmo
-Director of Engineering. Passionate about engineering leadership and culture, programming and the demoscene.
+Passionate about engineering [leadership](https://en.wikipedia.org/wiki/Servant_leadership) and culture, [low-level programming](https://en.wikipedia.org/wiki/Assembly_language) and [the demoscene](https://en.wikipedia.org/wiki/Demoscene).
 
 For almost 20 years I have been building and leading software engineering teams while coaching engineers through their personal growth and development. I strongly believe in servant leadership and the advantage of motivated, engaged, and empowered people in a creative environment and culture. My extensive tech industry experience allows me to credibly lead, coach and motivate as a role model in words and actions.
 
