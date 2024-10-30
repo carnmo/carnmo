@@ -22,7 +22,7 @@ I get my energy from managing and evolving highly functioning engineering- and s
 * IT Manager, Hemtex AB, 2018 - 2020
 * IT Manager, Eton AB, 2015 - 2018
 * Manager / Dept. IT Manager, DB Schenker AB, 2012 - 2014
-* Chied Technical Officer / Senior Software Developer, SciPark AB, 2007 - 2012
+* Chief Technical Officer / Senior Software Developer, SciPark AB, 2007 - 2012
 * Mentor, LBS AB, 2006 - 2007
 * Software Developer, Retriever AB/AS, 1999 - 2006
 * Computer Game Developer, AMG AB/TV4, 1998 - 1999
