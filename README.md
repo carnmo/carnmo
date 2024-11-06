@@ -3,7 +3,7 @@ Passionate about engineering [leadership](https://en.wikipedia.org/wiki/Servant_
 
 For almost 20 years I have been building and leading software engineering teams while coaching engineers through their personal growth and development. I strongly believe in servant leadership and the advantage of motivated, engaged, and empowered people in a creative environment and culture. My extensive tech industry experience allows me to credibly lead, coach and motivate as a role model in words and actions.
 
-## Leadership profile
+### Leadership profile
 * Active, clear, confident, and explicit leadership that promotes engagement and personal development through positive and constructive feedback and coaching.
 * Situational and agile servant leadership in engineering contexts and organizations.
 * Purpose-driven leadership based on empathy, trust, interaction, and collaboration.
@@ -13,10 +13,10 @@ For almost 20 years I have been building and leading software engineering teams 
 * Experience in due diligence, C- & D-suites, board of directors, management teams.
 * Facilitating and maintaining consistent and successful cross-functional interfaces and peer partnerships with surrounding contexts and stakeholders.
 
-## Key drivers and motivation
+### Key drivers and motivation
 I get my energy from managing and evolving highly functioning engineering- and software development teams. I measure my success in other people’s success and their ability to excel at work. To live is to learn and I enjoy sharing knowledge and learning together with others. After 30 years in the tech industry, I still love every day I get to work with brilliant people on challenging projects.
 
-## Experience
+### Experience
 * Chief Technical Officer, EVORA, 2022 - Current
 * Engineering Manager, nShift AB, 2020 - 2022
 * IT Manager, Hemtex AB, 2018 - 2020
@@ -28,3 +28,11 @@ I get my energy from managing and evolving highly functioning engineering- and s
 * Computer Game Developer, AMG AB/TV4, 1998 - 1999
 * Software Developer, Ulricehamns Kommun, 1997 - 1998
 * Software Developer, Freelance Consultant, 1994 - 1997
+
+### Tools
+* Hardware: ThinkPad X/T
+* Operating System: Arch Linux
+* Desktop: KDE Plasma
+* Editor: Vim
+* Compiler: GCC
+* Build system: GNU Make
