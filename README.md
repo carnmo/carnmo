@@ -33,6 +33,7 @@ I get my energy from managing and evolving highly functioning engineering- and s
 * Hardware: ThinkPad X/T
 * Operating System: Arch Linux
 * Desktop: KDE Plasma
+* Browser: Firefox
 * Editor: Vim
 * Compiler: GCC
 * Build system: GNU Make
