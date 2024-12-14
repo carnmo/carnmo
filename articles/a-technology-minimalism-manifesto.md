@@ -36,7 +36,6 @@ Clifford Carnmo, December 2024
 * Choose a terminal emulator, shell, and text editor and stick with them unconditionally until they are stuck with you and your muscle memory.
 * Build your own tools and scripts to fit your workflow and solve common tasks.
 * Clean up after finishing a project or session. Remove downloaded files that are no longer needed.
-* When browsing the internet, always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
 * Use portable and open-source formats for your data.
 
 ## Information Security
