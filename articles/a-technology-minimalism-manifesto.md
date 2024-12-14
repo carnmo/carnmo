@@ -1,7 +1,7 @@
 # A Technology Minimalism Manifesto
 Clifford Carnmo, December 2024
 
->“An idiot admires complexity, a genius admires simplicity” -- Terry Davis
+>"An idiot admires complexity, a genius admires simplicity" -- Terry Davis
 
 ## Background
 When I was born in Scandinavia in 1978, the world was a radically different place than it is today. Growing up and being schooled and sculpted into good future citizens, there were some common recurring patterns of philosophical rules that all of us kids were taught during our formative years.
@@ -15,7 +15,7 @@ When I was born in Scandinavia in 1978, the world was a radically different plac
 
 These are traits that I strongly believe in (it worked!) and try to teach my own kids (with various success). Most of them can also be directly correlated to how I use technology today as an adult.
 
-There are a few additional principles that serve as the Operating System of my life.
+There are a few additional principles that serve as the operating system of my life.
 * Journalism is the most important occupation in existence.
 * Within the boundaries of the law, free speech is a foundational component of any prosperous society.
 * Men and women are equal.
@@ -47,7 +47,7 @@ The Commodore 64 and Amiga 500 were extremely limited in their design and techni
 
 To this day I'm still deeply involved with the demoscene, and I still write assembly code for the Commodore 64 and Amiga 500, making demos and attending demoparties to meet fellow demosceners. It's the most rewarding and enjoyable activity in the world for me.
 
->“The creative adult is the child who survived.” – Ursula K. Le Guin
+>"The creative adult is the child who survived." –- Ursula K. Le Guin
 
 ### Less is More
 The winning combination and essence of the demoscene phenomenon is limitations plus creativity. By having fixed and strict hardware and software limitations, everyone competes on the same terms and faces the same challenges. By adding creativity, you mix in individual, cultural, and unique flavors to excel and overcome limitations. Optimizing an assembly routine to save a couple of clock cycles or taking advantage of an undocumented hardware feature takes time and hard work, but the result is absolutely worth it. You are in complete control of every single thing the computer does, and you can understand and conceptualize how the computer works on the inside.
@@ -143,6 +143,8 @@ My philosophy around contemporary computing is based on the following general as
 * Help your friends.
 * Share your knowledge and experience with others.
 * Donate to organizations and communities that provide software and services that are useful to you.
+
+>"Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without losing something." -- Richard Stallman
 
 ### Hone Your Skills and Improve Your Tools
 * Keep updated on hardware and software related to the fields you specialize in.
