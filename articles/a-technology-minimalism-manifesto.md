@@ -3,7 +3,70 @@ Clifford Carnmo, December 2024
 
 >“An idiot admires complexity, a genius admires simplicity” -- Terry Davis
 
-## General assumptions
+## Background
+When I was born in Scandinavia in 1978, the world was a radically different place than it is today. Growing up and being schooled and sculpted into good future citizens, there were some common recurring patterns of philosophical rules that all of us kids were taught during our formative years.
+* A strong collective is better than a strong individual.
+* Being a good friend is the most important thing.
+* Arguments or fights should be resolved by shaking hands and just moving forward as friends, realizing that the conflict was not worth it.
+* You work hard towards your goals and take no shortcuts. Finally being able to get what you wanted after weeks, months, or years of saving up radically increases the value of the object of your desire.
+* Abundance and luxury are unhealthy.
+* If you take care of your things and treat them with respect, maintaining and repairing them along the way, they will last you a lifetime.
+* Your room should be clean and organized.
+
+These are traits that I strongly believe in (it worked!) and try to teach my own kids (with various success). Most of them can also be directly correlated to how I use technology today as an adult.
+
+There are a few additional principles that serve as the Operating System of my life.
+* Journalism is the most important occupation in existence.
+* Within the boundaries of the law, free speech is a foundational component of any prosperous society.
+* Men and women are equal.
+* The truth will set you free.
+
+### The Spark
+The first time I interacted with a digital device was with a Game & Watch in the early 80s. My trembling 5-year-old hands could not believe the magic in front of me. You switched the device on and were instantly transferred to another world where pressing buttons made a character on the screen move.
+
+Some months later I had my first interaction with a computer, a Commodore 64. It had a profound impact on me and would lay the foundation for a lifetime of obsession. You switched the device on and could instantly communicate with it. You wrote letters and words on a keyboard, and the computer responded to you on a screen. It was like an oracle or a god. Somewhere inside the beige-brown case existed *something* that had intelligence.
+
+The Game & Watch and the Commodore 64 were not mine, and owning such devices and being able to choose freely when to interact with them was an impossible dream.
+
+### Chasing the Dragon
+My experience with the Commodore 64 set ablaze a fire that to this day burns bright. I love computers in a way I think few people love anything. To me, computers are magic portals to worlds of shared knowledge, artistic expression, self-realization, and evolution.
+
+As a kid I read all the books about computers I could get my hands on at the local library. I drew keyboards in school textbooks and programmed assembly code on a made-up hardware platform in my head during class. I learned about the binary numeral system before I was 10 years old. I hung out in computer stores just to bathe in the humming low-frequency noise of computers. I lived and breathed computers before I even owned one.
+
+### My Early Days of Computing
+One Christmas Eve changed my life forever. In my room an Amiga 500 had appeared, and what followed was years of obsession to learn and understand every aspect of it. My mind had an insatiable hunger, and no matter what I fed it, it always screamed for more.
+
+In the days before the internet, the only way to obtain knowledge was through school, friends, the news, books, or magazines. To get software, you bought a physical box at a store at prices unimaginable for a child. Since owning a home computer was getting fairly standard at the time, most of my friends from school also faced the same problem, and a solution was invented. Word spread at the schoolyard or the playground when someone got a copy of a new program. You loaded up a box of empty floppy disks and rode your bike across town and knocked on the kid's door and asked if you could copy it. As a child I spent countless days in fellow kids rooms copying software, holding my breath and hoping that copy protection or faulty floppy disks wouldn't ruin my digital harvest. I always invited kids knocking at my door and returned the favor.
+
+### Enter The Demoscene
+Most of the software going around the kids home computers in the late 80s were games, and I fondly remember them as audiovisual explosions filling my dark room with bright colors and sounds. The games were amazing, but what really caught my interest was the little screen shown when you just had inserted the floppy disk before the game started to load. A new kind of music filled my room, and on the screen were cool graphics and bold messages about programming superiority used for cracking the game (removing the copy protection). It looked like tunnel graffiti had come to life and danced on my screen.
+
+I got completely uninterested in games but started to collect them just to be able to rewatch these little intros. I recorded intro music on a Sony Walkman and listened to it when away from my beloved Amiga. In time, the crack intros started to get more advanced than the game itself and featured effects that I could not believe were possible. Realtime spinning 3D cubes over rotating and zooming pictures seemed like travelling forward in time. After a few years I had become a teenager and found out about the demoscene, a magical and mysterious place where people like me had abandoned the games and instead gathered in gymnasiums to compete in programming demos, a longer and more advanced form of the crack intro. The demos looked like something on MTV at the time and pushed the Amiga to its absolute limits and then some.
+
+The Commodore 64 and Amiga 500 were extremely limited in their design and technical capabilities. The demoscene changed that by exploiting the hardware using raw assembly programming and clever tricks to make them do things no one at Commodore would have thought even possible when designing them. Many of the programmers on the demoscene were ordinary teenage boys like me with an extreme programming talent.
+
+To this day I'm still deeply involved with the demoscene, and I still write assembly code for the Commodore 64 and Amiga 500, making demos and attending demoparties to meet fellow demosceners. It's the most rewarding and enjoyable activity in the world for me.
+
+>“The creative adult is the child who survived.” – Ursula K. Le Guin
+
+### Less is More
+The winning combination and essence of the demoscene phenomenon is limitations plus creativity. By having fixed and strict hardware and software limitations, everyone competes on the same terms and faces the same challenges. By adding creativity, you mix in individual, cultural, and unique flavors to excel and overcome limitations. Optimizing an assembly routine to save a couple of clock cycles or taking advantage of an undocumented hardware feature takes time and hard work, but the result is absolutely worth it. You are in complete control of every single thing the computer does, and you can understand and conceptualize how the computer works on the inside.
+
+### Modern Technology
+Since 1994 I have more or less exclusively used Amiga and GNU/Linux Operating Systems such as:
+* Debian
+* Red Hat
+* Ubuntu
+* Arch Linux
+
+Computing power has historically never been an issue and as long as I had a relatively recent configuration my computers has always been quick, snappy and have done everything I asked of them without giving me attitude. The readily available consumer hardware available today is ridiculously powerful and fast in comparision. We have gigabytes of memory, gigahertz CPU's with multiple cores and terrabytes of storage space. Still, the average modern computing experience is infinitely worse.
+
+### The Problem
+As hardware became more and more powerful and cheap enough for the general public to obtain, software developers stopped paying attention to the details and caring about carefully crafting software tuned and optimized for performance and reliability.
+
+## My Solution
+My philosophy around contemporary computing is based on the following general assumptions:
+
 * Fewer moving parts means fewer unexpected behaviors.
 * A lower amount of noise, clutter, installed software, and applications means a reduced probability of failure.
 * Minimal input, maximum output.
