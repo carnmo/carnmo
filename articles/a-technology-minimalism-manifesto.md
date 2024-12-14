@@ -70,7 +70,7 @@ My philosophy around contemporary computing is based on the following general as
 * A lower amount of noise, clutter, installed software, and applications means a reduced probability of failure.
 * Minimal input, maximum output.
 
-## Hardware
+### Hardware
 * Choose one or two hardware vendors for your desktops and laptops and stick with them until you have learned their quirks.
 * Familiarize yourself with the hardware components of your system.
 * When possible, choose hardware components that provide open-source drivers.
@@ -82,7 +82,7 @@ My philosophy around contemporary computing is based on the following general as
 * Building your own computer is fun and gives you greater control over many aspects of its configuration and function.
 * Keep a multitool, external hard drive, and recovery media, such as a bootable operating/rescue system, on a USB drive in your bag or backpack.
 
-## Operating System
+### Operating System
 * Do not use Microsoft Windows or Apple macOS.
 * Use a GNU/Linux distribution or a UNIX-like operating system.
 * Keep your operating system minimal, lean, and fast.
@@ -92,7 +92,7 @@ My philosophy around contemporary computing is based on the following general as
 * Use a terminal to do most of your work.
 * Routinely perform system administration tasks and housekeeping.
 
-## Programs and Tools
+### Programs and Tools
 * Use your distribution's package manager to install, remove, and upgrade software.
 * Avoid Snap, Flatpak, and AppImages if you can. Your package manager knows what it's doing.
 * Choose a terminal emulator, shell, and text editor and stick with them unconditionally until they are stuck with you and your muscle memory.
@@ -100,7 +100,7 @@ My philosophy around contemporary computing is based on the following general as
 * Clean up after finishing a project or session. Remove downloaded files that are no longer needed.
 * Use portable and open-source formats for your data.
 
-## Information Security
+### Information Security
 * Use a firewall with a limited amount of open ports to fulfill your needs.
 * Drop all incoming ping requests.
 * Do not use standard ports for common network services like FTP and SSH.
@@ -112,7 +112,7 @@ My philosophy around contemporary computing is based on the following general as
 * Disable the root account on all your devices and use sudo when needed.
 * Use a hardware authentication device such as YubiKey, Thetis or NitroKey.
 
-## Information Management
+### Information Management
 * Do not use social media. There is nothing social about them.
 * Practice healthy skepticism and gather information from different perspectives and sources.
 * Disable every single notification and visual, auditory, or tactile distraction on all your devices.
@@ -120,7 +120,7 @@ My philosophy around contemporary computing is based on the following general as
 * Turn off or put your phone in do not disturb mode when you go to sleep.
 * Generally, the internet is broken. Always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
 
-## Software Development
+### Software Development
 * Learn low-level programming first, then learn high-level.
 * Do not blindly rely on an IDE. Get comfortable writing code in a simple text editor without auto-complete and AI features.
 * Develop software that requires as few external dependencies as possible.
@@ -138,13 +138,13 @@ My philosophy around contemporary computing is based on the following general as
 * When considering dynamic, interpreted, garbage-collected/automatic memory-managed languages and frameworks, always prefer mature and established industry standards.
 * Do not fall for trends or hype.
 
-## Contribute and Give Back
+### Contribute and Give Back
 * Use your skills and devote some of your spare time to help software projects that you find useful and use on a regular basis.
 * Help your friends.
 * Share your knowledge and experience with others.
 * Donate to organizations and communities that provide software and services that are useful to you.
 
-## Hone Your Skills and Improve Your Tools
+### Hone Your Skills and Improve Your Tools
 * Keep updated on hardware and software related to the fields you specialize in.
 * Work on both serious projects and silly gadgets.
 * Keep a log and document new knowledge and insights.
