@@ -17,7 +17,7 @@ For almost 20 years I have been building and leading software engineering teams 
 I get my energy from managing and evolving highly functioning engineering- and software development teams. I measure my success in other people’s success and their ability to excel at work. To live is to learn and I enjoy sharing knowledge and learning together with others. After 30 years in the tech industry, I still love every day I get to work with brilliant people on challenging projects.
 
 ### Experience
-* Chief Technical Officer, EVORA, 2022 - Current
+* Director of Engineering, EVORA, 2022 - Current
 * Engineering Manager, nShift AB, 2020 - 2022
 * IT Manager, Hemtex AB, 2018 - 2020
 * IT Manager, Eton AB, 2015 - 2018
