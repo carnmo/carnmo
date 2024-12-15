@@ -139,7 +139,7 @@ My philosophy around contemporary computing is based on the following general as
 * Do not fall for trends or hype.
 
 ### Contribute and Give Back
-* Use your skills and devote some of your spare time to help software projects that you find useful and use on a regular basis.
+* Use your skills and devote some of your spare time to help software projects and communities that you find useful and benefit from on a regular basis.
 * Help your friends.
 * Share your knowledge and experience with others.
 * Donate to organizations and communities that provide software and services that are useful to you.
