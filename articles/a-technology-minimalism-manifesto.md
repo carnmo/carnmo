@@ -133,7 +133,7 @@ My philosophy around contemporary computing is based on the following general as
 * Implement logging in a non-binary format.
 * Document how you think, not explanations of your code.
 * Use the right tools for the job.
-* Be opinionated about software design and architecture but always acknowledge and consider alternatives.
+* Be opinionated about software design and architecture but always acknowledge and consider other people's opinions.
 * Always prefer static, type-safe, and compiled programming languages.
 * When considering dynamic, interpreted, garbage-collected/automatic memory-managed languages and frameworks, always prefer mature and established industry standards.
 * Do not fall for trends or hype.
