@@ -10,7 +10,7 @@ When I was born in Scandinavia in 1978, the world was a radically different plac
 * Arguments or fights should be resolved by shaking hands and just moving forward as friends, realizing that the conflict was not worth it.
 * You work hard towards your goals and take no shortcuts. Finally being able to get what you wanted after weeks, months, or years of saving up radically increases the value of the object of your desire.
 * Abundance and luxury are unhealthy.
-* If you take care of your things and treat them with respect, maintaining and repairing them along the way, they will last you a lifetime.
+* If you take care of your things and treat them with respect, maintaining and repairing them along the way, they might last you a lifetime.
 * Your room should be clean and organized.
 
 These are traits that I strongly believe in (it worked!) and try to teach my own kids (with various success). Most of them can also be directly correlated to how I use technology today as an adult.
