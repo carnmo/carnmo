@@ -119,7 +119,7 @@ My philosophy around contemporary computing is based on the following general as
 * Disable every single notification and visual, auditory, or tactile distraction on all your devices.
 * Implement a routine where you check your messages and e-mails during times that suit you.
 * Turn off or put your phone in do not disturb mode when you go to sleep.
-* Generally, the internet is broken beyond repair. Always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
+* The internet is broken beyond repair. Always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
 
 ### Software Development
 * Learn low-level programming first, then learn high-level.
