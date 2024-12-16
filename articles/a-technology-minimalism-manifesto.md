@@ -59,7 +59,7 @@ Since 1994 I have more or less exclusively used Amiga and GNU/Linux Operating Sy
 * Ubuntu
 * Arch Linux
 
-Computing power has historically never been an issue and as long as I had a relatively recent configuration my computers has always been quick, snappy and have done everything I asked of them without giving me attitude. The readily available consumer hardware available today is ridiculously powerful and fast in comparision. We have gigabytes of memory, gigahertz CPU's with multiple cores and terrabytes of storage space. Still, the average modern computing experience is infinitely worse.
+Computing power has historically never been an issue and as long as I had a relatively recent configuration my computers has always been quick, snappy and have done everything I asked of them without giving me attitude. The readily available consumer hardware available today is ridiculously powerful and fast in comparision. We have gigabytes of memory, gigahertz CPU's with multiple cores and terrabytes of storage space. Still, the average modern computing experience online is infinitely worse due to advertisements, bloat and distraction abundance.
 
 ## The Problem
 As hardware became more and more powerful and cheap enough for the general public to obtain, software developers stopped paying attention to the details and caring about carefully crafting software tuned and optimized for performance and reliability. Software bloat is now standard and the supercomputers in our pockets are used for doomscrolling and brainrot.
@@ -111,14 +111,15 @@ My philosophy around contemporary computing is based on the following general as
 * Disable password authentication and use SSH key pairs to authenticate to remote systems.
 * Disable the root account on all your devices and use sudo when needed.
 * Use a hardware authentication device such as YubiKey, Thetis or NitroKey.
+* Reduce the amount of online accounts to a minimum.
 
 ### Information Management
 * Do not use social media. There is nothing social about them.
 * Practice healthy skepticism and gather information from different perspectives and sources.
 * Disable every single notification and visual, auditory, or tactile distraction on all your devices.
-* Implement a routine where you check your notifications, messages, and e-mails during times that suit you.
+* Implement a routine where you check your messages and e-mails during times that suit you.
 * Turn off or put your phone in do not disturb mode when you go to sleep.
-* Generally, the internet is broken. Always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
+* Generally, the internet is broken beyond repair. Always use a content-filtering browser extension such as uBlock Origin Lite to block ads, popups, and other unwanted distractions.
 
 ### Software Development
 * Learn low-level programming first, then learn high-level.
