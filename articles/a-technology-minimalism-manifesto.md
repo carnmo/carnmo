@@ -29,7 +29,7 @@ Some months later I had my first interaction with a computer, a Commodore 64. It
 The Game & Watch and the Commodore 64 were not mine, and owning such devices and being able to choose freely when to interact with them was an impossible dream.
 
 ### Chasing the Dragon
-My experience with the Commodore 64 set ablaze a fire that to this day burns bright. I love computers in a way I think few people love anything. To me, computers are magic portals to worlds of shared knowledge, artistic expression, self-realization, and evolution.
+My experience with the Commodore 64 set ablaze a fire that to this day burns bright. I love computers in a way I think few people love anything. To me, computers are magic portals to worlds of shared knowledge, friendship, community, artistic expression, self-realization, and evolution.
 
 As a kid I read all the books about computers I could get my hands on at the local library. I drew keyboards in school textbooks and programmed assembly code on a made-up hardware platform in my head during class. I learned about the binary numeral system before I was 10 years old. I hung out in computer stores just to bathe in the humming low-frequency noise of computers. I lived and breathed computers before I even owned one.
 
