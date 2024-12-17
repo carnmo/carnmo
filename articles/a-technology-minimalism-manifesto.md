@@ -70,6 +70,8 @@ My philosophy around contemporary computing is based on the following general as
 * A lower amount of noise, clutter, installed software, and applications means a reduced probability of failure.
 * Minimal input, maximum output.
 
+"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupéry
+
 ### Hardware
 * Choose one or two hardware vendors for your desktops and laptops and stick with them until you have learned their quirks.
 * Familiarize yourself with the hardware components of your system.
