@@ -85,7 +85,6 @@ My philosophy around contemporary computing is based on the following general as
 * Keep a multitool, external hard drive, and recovery media, such as a bootable operating/rescue system, on a USB drive in your bag or backpack.
 
 ### Operating System
-* Do not use Microsoft Windows or Apple macOS.
 * Use a GNU/Linux distribution or a UNIX-like operating system.
 * Keep your operating system minimal, lean, and fast.
 * Learn how your operating system works and how to interact with it programmatically.
@@ -107,7 +106,7 @@ My philosophy around contemporary computing is based on the following general as
 * Drop all incoming ping requests.
 * Do not use standard ports for common network services like FTP and SSH.
 * Use a VPN.
-* Do not under any circumstance use a cloud-based password manager. Instead, use a local password manager such as KeePass.
+* Use a password manager with a strong master key.
 * Backup your password database regularly.
 * Use a 2FA/TOTP solution that does not require you to first authenticate with Big Tech.
 * Disable password authentication and use SSH key pairs to authenticate to remote systems.
