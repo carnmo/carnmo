@@ -160,3 +160,7 @@ My philosophy around contemporary computing is based on the following general as
 * Evaluate new options to replace your existing tools.
 * Reduce your dependency on Big Tech and corporations.
 * Read books.
+
+### Further reading
+* [We are destroying software](https://antirez.com/news/145) by antirez.
+* [suckless.org](https://suckless.org/)
