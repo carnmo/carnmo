@@ -164,3 +164,4 @@ My philosophy around contemporary computing is based on the following general as
 ### Further reading
 * [We are destroying software](https://antirez.com/news/145) by antirez.
 * [suckless.org](https://suckless.org/)
+* [Digital Minimalism for IT Professionals](https://lynchburgcollective.com/article/simplify-digital-life) by Lynchburg Collective.
