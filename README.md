@@ -32,9 +32,12 @@ I get my energy from managing and evolving highly functioning engineering- and s
 ### Technology experience
 #### Programming languages
 * Assembly, Bash, C, C++, C#, GLSL, Go, HLSL, Java, Java/TypeScript, Perl, PHP, Python, Rust
-
+ 
 #### Operating systems
 * AmigaOS, Android, BSD, Darwin/macOS, GNU/Linux, HP-UX, Microsoft Windows, OpenVMS, QNX, SunOS/Solaris
 
 #### Instruction set architectures
 * 6502, 680x0, ARM, AVR, x86, x86-64, Z80
+
+#### Tools, frameworks, libraries, services and applications
+* .NET, Amazon DynamoDB, Angular, ASP.NET, AWS, AWT, Azure, Azure Cosmos DB, Azure DevOps, Backbone.js, BigQuery, Bigtable, Bitbucket, Blazor, Cassandra, Clang, Confluence, Couchbase, CXF, Derby, DirectX, DocumentDB, Entity Framework, GCC, Git, GitHub, GitLab, GNU Coreutils, Gradle, Grafana, Hadoop, Hibernate, Jackson, JakartaEE, JavaFX, JBoss EAP, Jira, JSON, JUnit, Kafka, LaTeX, Lucene, Make, MariaDB, Maven, Memcached, MFC, Microsoft SQL Server, MongoDB, MSVC, MySQL, Ncurses, Netty, OpenGL, PostgreSQL, Qt, RabbitMQ, React, Redis, REST, Selenium, SignalR, SOAP, SonarQube, Spring, SQLite, Struts, Svelte, Swing, Tapestry, Tk, Tomcat, Vim, Vue, WildFly, WinForms, WinUI, WPF, XML
