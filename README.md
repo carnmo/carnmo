@@ -16,7 +16,7 @@ For almost 20 years I have been building and leading software engineering teams 
 ### Key drivers and motivation
 I get my energy from managing and evolving highly functioning engineering- and software development teams. I measure my success in other people’s success and their ability to excel at work. To live is to learn and I enjoy sharing knowledge and learning together with others. After 30 years in the tech industry, I still love every day I get to work with brilliant people on challenging projects.
 
-### Experience
+### Work experience
 * Director of Engineering, EVORA, 2022 - Current
 * Engineering Manager, nShift AB, 2020 - 2022
 * IT Manager, Hemtex AB, 2018 - 2020
@@ -28,3 +28,13 @@ I get my energy from managing and evolving highly functioning engineering- and s
 * Computer Game Developer, AMG AB/TV4, 1998 - 1999
 * Software Developer, Ulricehamns Kommun, 1997 - 1998
 * Software Developer, Freelance Consultant, 1994 - 1997
+
+### Technology experience
+#### Programming languages
+* Assembly, Bash, C, C++, C#, GLSL, Go, HLSL, Java, Java/TypeScript, Perl, PHP, Python, Rust
+
+#### Operating systems
+* AmigaOS, Android, BSD, Darwin/macOS, GNU/Linux, HP-UX, Microsoft Windows, OpenVMS, QNX, SunOS/Solaris
+
+#### Instruction set architectures
+* 6502, 680x0, ARM, AVR, x86, x86-64, Z80
